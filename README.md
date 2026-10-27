@@ -4,4 +4,4 @@
 
 * **사업 구상 보고서:** `Draft-Atlas_사업구상_AI영상제작보고서_노준혁.pdf`
 * **모션 그래픽 영상:** [YouTube 링크 보기](https://youtu.be/5iKVjXEL7_E)
-* **AI 영화 영상:** [YouTube 링크 보기](https://youtu.be/Bra4mr3iiRl)
+* **AI 영화 영상:** [YouTube 링크 보기](https://youtu.be/Bra4mr3iiRI)
